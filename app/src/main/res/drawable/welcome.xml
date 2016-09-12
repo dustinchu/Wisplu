@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+oneshot代表著是否只展示一遍，設置為false會不停的循環播放動畫
+android:duration 表示展示所用的該圖片的時間長度
+-->
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true"
+    >
+    <item android:drawable="@drawable/welcome1" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome2" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome3" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome4" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome5" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome6" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome7" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome8" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome9" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome10" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome11" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome12" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome13" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome14" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome15" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome16" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome17" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome18" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome19" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome20" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome21" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome22" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome23" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome24" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome25" android:duration="200"></item>
+    <item android:drawable="@drawable/welcome26" android:duration="200"></item>
+
+
+</animation-list>
